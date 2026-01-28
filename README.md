@@ -1,60 +1,64 @@
-# Hi there, I'm Houda Salhi 👋✨
+![Hey there, I'm Houda Salhi. I'm a Computer Engineering student](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-I'm a **2nd-year Computer Engineering student** passionate about **software development, databases, and networking**.  
-I enjoy learning new technologies and working on academic and personal projects to improve my technical skills.
+# 👋 Hi there, I'm Houda Salhi
 
-📍 Based in Morocco  
-🎓 Computer Engineering Student  
-💡 Interested in Web Development, Databases & Networks
+I'm a **Computer Engineering student** passionate about information technology,  
+software development, databases, and computer networks.  
+I’m currently building my skills through academic projects, labs, and internships,  
+and I’m preparing for a **PFE / SFE internship**.
 
----
+I enjoy learning step by step, practicing regularly, and improving both my  
+technical and problem-solving skills 🚀
 
-## 🔧 Technologies & Tools
+&nbsp;
 
-### 💻 Programming & Web
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+## 🎓 &nbsp;Education & Focus
 
-### 🗄️ Databases & Tools
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+- Computer Engineering (2nd year)  
+- Software Development  
+- Databases (PostgreSQL, MySQL)  
+- Computer Networks & Systems  
+- Web fundamentals  
 
-### 🌐 Networking
-![](https://img.shields.io/badge/Networking-Cisco_Packet_Tracer-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
+&nbsp;
 
----
+## 🧰 &nbsp;My Toolbox
 
-## 📚 Academic & Personal Projects
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
 
-- 💻 Academic projects in **programming, databases, and networking**
-- 🌐 Web development mini-projects
-- 🛠️ Network simulations using **Cisco Packet Tracer**
+&nbsp;
 
-*(Projects will be added progressively 🚀)*
+## 📂 &nbsp;Academic & Personal Work
 
----
+- Database projects using **PostgreSQL**  
+- Networking labs with **Cisco Packet Tracer**  
+- Application analysis during internship  
+- Small web projects (HTML / CSS / JS basics)
 
-## 📈 GitHub Stats
+*(More projects will be added as I continue learning 👩‍💻)*
 
-<a href="https://github.com/TON_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&count_private=true" />
-</a>
+&nbsp;
 
-<a href="https://github.com/TON_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact" />
-</a>
+## 🎯 &nbsp;Current Goals
 
----
+- Strengthen my skills in software and web development  
+- Gain professional experience through internships  
+- Build solid academic and real-world projects  
+- Successfully complete my **Final Year Project (PFE)**  
 
-## 📫 Contact Me
+&nbsp;
 
-- 💼 LinkedIn: *(ajoute ton lien ici)*
-- 📧 Email: *(optionnel)*
+## 📊 &nbsp;GitHub Stats
 
-⭐ Feel free to explore my repositories and follow my learning journey!
+![Houda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+
 
