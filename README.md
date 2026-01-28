@@ -1,4 +1,4 @@
-![Hey there, I'm Houda Salhi. I'm a Computer Engineering student](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+![Hey there, I'm Houda Salhi. I'm a Computer Engineering student])
 
 # 👋 Hi there, I'm Houda Salhi
 
